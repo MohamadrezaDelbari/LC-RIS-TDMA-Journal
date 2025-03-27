@@ -1,3 +1,9 @@
+%%----------------------------------------------------%%
+%%----- Mohamadreza Delbari
+%%----- Please cite: Fast Reconfiguration of LC-RISs in TDMA Protocol
+%%----- Please cite: DOI: 10.1109/ICCWorkshops59551.2024.10615422
+%%----------------------------------------------------%%
+
 function [gamma,deltagamma,avgt] = algorithm(Param,lambda,gamma,alpha,Imax,SNR_thr,tmax,xmax,xmin)
 p_mu=Param.p_mu;
 y_step=Param.y_step;
