@@ -1,3 +1,9 @@
+%%----------------------------------------------------%%
+%%----- Mohamadreza Delbari
+%%----- Please cite: Fast Reconfiguration of LC-RISs in TDMA Protocol
+%%----- Please cite: DOI: 10.1109/ICCWorkshops59551.2024.10615422
+%%----------------------------------------------------%%
+
 function [W] = NF_RIS_design(f,Ny,Nz,pr,pt,ppirs)
 c=3*10^8;
 lamda=c/f;
