@@ -12,7 +12,7 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-If you use this software in academic work or publications, please cite the following papers:
+If you use this code in academic work or publications, please cite the following papers:
 
 [1] M. Delbari, R. Neuder, A. Jiménez-Sáez, A. Asadi, and V. Jamali, "Fast Reconfiguration of LC-RISs: Modeling and Algorithm Design", submitted to IEEE Transactions on Wireless Communications, arxiv: https://arxiv.org/pdf/2504.08352.
 [2] M. Delbari, R. Neuder, A. Jiménez-Sáez, A. Asadi, and V. Jamali, “Fast transition-aware reconfiguration of liquid crystal-based RISs”, in Proc. IEEE International Conf. on Commun. Workshops (ICC Workshops), Denver, CO, USA, 2024, pp. 214–219. DOI: 10.1109/ICCWorkshops59551.2024.10615422.
