@@ -1,5 +1,5 @@
 # Fast Reconfiguration of LC-RISs in TDMA Protocol
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT + Citation Request](https://img.shields.io/badge/License-MIT--Citation-yellow.svg)](./LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.08352-b31b1b.svg)](https://arxiv.org/abs/2504.08352)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCWorkshops59551.2024.10615422-blue.svg)](https://ieeexplore.ieee.org/document/10615422)
 
