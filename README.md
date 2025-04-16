@@ -7,11 +7,11 @@ This repository contains the source code for the following papers:
 
 [1] M. Delbari, R. Neuder, A. Jiménez-Sáez, A. Asadi, and V. Jamali, "Fast Reconfiguration of LC-RISs: Modeling and Algorithm Design", submitted to IEEE Transactions on Wireless Communications.
 
-arxiv: https://arxiv.org/pdf/2504.08352.
+arxiv: https://arxiv.org/pdf/2504.08352
 
 [2] M. Delbari, R. Neuder, A. Jiménez-Sáez, A. Asadi, and V. Jamali, “Fast transition-aware reconfiguration of liquid crystal-based RISs”, in Proc. IEEE International Conf. on Commun. Workshops (ICC Workshops), Denver, CO, USA, 2024, pp. 214–219.
 
-[DOI: 10.1109/ICCWorkshops59551.2024.10615422](https://ieeexplore.ieee.org/document/10615422).
+[DOI: 10.1109/ICCWorkshops59551.2024.10615422](https://ieeexplore.ieee.org/document/10615422)
 
 # Usage
 Run the main file, and then all figures will be generated.
