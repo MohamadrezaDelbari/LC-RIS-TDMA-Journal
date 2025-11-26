@@ -1,6 +1,7 @@
 %%----------------------------------------------------%%
 %%----- Mohamadreza Delbari
-%%----- Please cite: Fast Reconfiguration of LC-RISs in TDMA Protocol
+%%----- Fast Reconfiguration of LC-RISs: Modeling and Algorithm Design
+%%----- Please cite: https://arxiv.org/pdf/2504.08352
 %%----- Please cite: DOI: 10.1109/ICCWorkshops59551.2024.10615422
 %%----------------------------------------------------%%
 
