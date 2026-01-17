@@ -23,7 +23,7 @@ Delbari and Jamali’s work was supported in part by the Deutsche Forschungsgeme
 This program is licensed under the MIT license. If you in any way use this code for research that results in publications, please cite our original article listed above. You can also use the following BibTeX entry
 
 <pre lang="markdown">
-      @ARTICLE{delbari2026fast,
+@ARTICLE{delbari2026fast,
   author={Delbari, Mohamadreza and Neuder, Robin and Jiménez-Sáez, Alejandro and Asadi, Arash and Jamali, Vahid},
   journal={IEEE Trans. Wireless Commun.}, 
   title={Fast Reconfiguration of Liquid Crystal-RISs: Modeling and Algorithm Design}, 
