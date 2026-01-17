@@ -1,6 +1,6 @@
 # Fast Reconfiguration of Liquid Crystal-RISs in TDMA Protocol
 [![License: MIT + Citation Request](https://img.shields.io/badge/License-MIT--Citation-yellow.svg)](./LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCWorkshops59551.2024.10615422-blue.svg)](https://ieeexplore.ieee.org/document/11355735)
+[![DOI](https://img.shields.io/badge/DOI-10.1109/TWC.2026.3652460-blue.svg)](https://ieeexplore.ieee.org/document/11355735)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCWorkshops59551.2024.10615422-blue.svg)](https://ieeexplore.ieee.org/document/10615422)
 
 This repository contains the source code for the following papers:
