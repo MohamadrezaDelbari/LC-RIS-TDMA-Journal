@@ -1,13 +1,13 @@
-# Fast Reconfiguration of LC-RISs in TDMA Protocol
+# Fast Reconfiguration of Liquid Crystal-RISs in TDMA Protocol
 [![License: MIT + Citation Request](https://img.shields.io/badge/License-MIT--Citation-yellow.svg)](./LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2504.08352-b31b1b.svg)](https://arxiv.org/abs/2504.08352)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCWorkshops59551.2024.10615422-blue.svg)](https://ieeexplore.ieee.org/document/11355735)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCWorkshops59551.2024.10615422-blue.svg)](https://ieeexplore.ieee.org/document/10615422)
 
 This repository contains the source code for the following papers:
 
-[1] M. Delbari, R. Neuder, A. Jiménez-Sáez, A. Asadi, and V. Jamali, "Fast Reconfiguration of LC-RISs: Modeling and Algorithm Design", submitted to IEEE Transactions on Wireless Communications.
+[1] M. Delbari, R. Neuder, A. Jiménez-Sáez, A. Asadi, and V. Jamali, "Fast Reconfiguration of Liquid Crystal-RISs: Modeling and Algorithm Design," in IEEE Trans. Wireless Commun., vol. 25, pp. 10098-10114, 2026, doi: 10.1109/TWC.2026.3652460.
 
-arxiv: https://arxiv.org/pdf/2504.08352
+[DOI: 10.1109/TWC.2026.3652460](https://ieeexplore.ieee.org/document/11355735)
 
 [2] M. Delbari, R. Neuder, A. Jiménez-Sáez, A. Asadi, and V. Jamali, “Fast transition-aware reconfiguration of liquid crystal-based RISs”, in Proc. IEEE International Conf. on Commun. Workshops (ICC Workshops), Denver, CO, USA, 2024, pp. 214–219.
 
