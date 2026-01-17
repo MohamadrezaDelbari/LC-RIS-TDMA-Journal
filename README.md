@@ -1,4 +1,4 @@
-# Fast Reconfiguration of Liquid Crystal-RISs in TDMA Protocol
+# Fast Reconfiguration of Liquid Crystal-RISs: Modeling and Algorithm Design
 [![License: MIT + Citation Request](https://img.shields.io/badge/License-MIT--Citation-yellow.svg)](./LICENSE)
 [![DOI](https://img.shields.io/badge/DOI-10.1109/TWC.2026.3652460-blue.svg)](https://ieeexplore.ieee.org/document/11355735)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCWorkshops59551.2024.10615422-blue.svg)](https://ieeexplore.ieee.org/document/10615422)
@@ -23,12 +23,15 @@ Delbari and Jamali’s work was supported in part by the Deutsche Forschungsgeme
 This program is licensed under the MIT license. If you in any way use this code for research that results in publications, please cite our original article listed above. You can also use the following BibTeX entry
 
 <pre lang="markdown">
-@misc{delbari2025fastreconfigurationlcrissmodeling,
-      author={Delbari, Mohamadreza and Neuder, Robin and Jiménez-Sáez, Alejandro and Asadi, Arash and Jamali, Vahid},
-      title={Fast Reconfiguration of LC-RISs: Modeling and Algorithm Design},
-      year={2025},
-      url={https://arxiv.org/pdf/2504.08352}, 
-}
+      @ARTICLE{delbari2026fast,
+  author={Delbari, Mohamadreza and Neuder, Robin and Jiménez-Sáez, Alejandro and Asadi, Arash and Jamali, Vahid},
+  journal={IEEE Trans. Wireless Commun.}, 
+  title={Fast Reconfiguration of Liquid Crystal-RISs: Modeling and Algorithm Design}, 
+  year={2026},
+  volume={25},
+  number={},
+  pages={10098-10114},
+  doi={10.1109/TWC.2026.3652460}}
 </pre>
 
 <pre lang="markdown">
