@@ -1,7 +1,7 @@
 %%----------------------------------------------------%%
 %%----- Mohamadreza Delbari
 %%----- Fast Reconfiguration of LC-RISs: Modeling and Algorithm Design
-%%----- Please cite: https://arxiv.org/pdf/2504.08352
+%%----- Please cite: DOI: 10.1109/TWC.2026.3652460
 %%----- Please cite: DOI: 10.1109/ICCWorkshops59551.2024.10615422
 %%----------------------------------------------------%%
 
